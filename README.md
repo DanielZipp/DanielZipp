@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DanielZipp
-- 👀 I’m interested in Data Science and Business Information Systems
-- 🌱 I’m currently learning Python and R
-- 👨‍🎓 I'm currently Studying in Vienna at WU Wien
+
 
 
 <!---
