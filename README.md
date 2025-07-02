@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DanielZipp
+- 👋 Hi, I’m Daniel Zipperle
+- I am currently doing my bachelor thesis at Vienna University of Business and Economy and will start my master's degree in Fall 2025 at Technical University Vienna in Data Science
 
 
 
